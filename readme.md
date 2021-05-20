@@ -23,17 +23,20 @@ yarn start
 Veja a listagem dos ultimos 7 dias
 ```
 
-<strong> Filtre por Nome </strong>
-<strong> Filtre por Data </strong>
-<strong> Veja se o asteroide é potencialmente perigoso </strong>
+- Filtre por Nome 
+- Filtre por Data 
+- Veja se o asteroide é potencialmente perigoso
 
 <strong>Na listagem, podemos ver:</strong>
 
-<ul>Estimativas em Quilômetro
+```
+Estimativas em Quilômetro
+```
+<ul>
  <li>Diametro mínimo</li>
  <li>Diametro máximo</li>
  <li>Distancia da terra</li>
- </ul>
+</ul>
 
 ## Publicado no endereço:
 
