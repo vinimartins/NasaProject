@@ -23,8 +23,8 @@ yarn start
 Veja a listagem dos ultimos 7 dias
 ```
 
-- Filtre por Nome 
-- Filtre por Data 
+- Filtre por Nome
+- Filtre por Data
 - Veja se o asteroide é potencialmente perigoso
 
 <strong>Na listagem, podemos ver:</strong>
@@ -32,15 +32,12 @@ Veja a listagem dos ultimos 7 dias
 ```
 Estimativas em Quilômetro
 ```
+
 <ul>
  <li>Diametro mínimo</li>
  <li>Diametro máximo</li>
  <li>Distancia da terra</li>
 </ul>
-
-## Publicado no endereço:
-
-https://nearasteroids.herokuapp.com
 
 ## Obrigado
 
